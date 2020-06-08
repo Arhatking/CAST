@@ -1,4 +1,4 @@
-# CAST and ROSC
+# Spectral Clustering on Multi-scale Data
 This is an implementation of CAST in the <b>KDD2020</b> paper:
 
 `CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data`
