@@ -4,6 +4,9 @@ knn = calculateKNN(A,4);
 
 switch SegmentatiomMethod
     
+    case 'ROSC'
+        [L] = ROSC(X,knn,lambda1,lambda2);%L: n*n
+        
     case 'ROSC-S'
         [L] = ROSC_S(X,knn,lambda1,lambda2);%L: n*n
    
