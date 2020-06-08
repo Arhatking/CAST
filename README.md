@@ -31,7 +31,7 @@ Please cite the papers if you use our code in this repo.
 
 ```
 @inproceedings{li2018rosc,
-  title={Rosc: Robust spectral clustering on multi-scale data},
+  title={ROSC: Robust spectral clustering on multi-scale data},
   author={Li, Xiang and Kao, Ben and Luo, Siqiang and Ester, Martin},
   booktitle={WWW},
   pages={157--166},
@@ -39,7 +39,7 @@ Please cite the papers if you use our code in this repo.
 }
 
 @inproceedings{li2020cast,
-  title={Rosc: Robust spectral clustering on multi-scale data},
+  title={CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data},
   author={Li, Xiang and Kao, Ben and Shan, Caihua, Yin, Dawei and Ester, Martin},
   booktitle={KDD},
   year={2020}
