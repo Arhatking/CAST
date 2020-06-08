@@ -40,7 +40,7 @@ Please cite the papers if you use our codes in this repo.
 
 @inproceedings{li2020cast,
   title={CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data},
-  author={Li, Xiang and Kao, Ben and Shan, Caihua, Yin, Dawei and Ester, Martin},
+  author={Li, Xiang and Kao, Ben and Shan, Caihua and Yin, Dawei and Ester, Martin},
   booktitle={KDD},
   year={2020}
 }
