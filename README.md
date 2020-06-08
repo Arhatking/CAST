@@ -27,7 +27,7 @@ The entry file is `main.m`
 
 ## Reference
 
-Please cite the papers if you use our code in this repo.
+Please cite the papers if you use our codes in this repo.
 
 ```
 @inproceedings{li2018rosc,
