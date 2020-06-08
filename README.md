@@ -1,11 +1,11 @@
 # CAST and ROSC
-This is an implementation of CAST in the KDD202O paper:
+This is an implementation of CAST in the ## KDD2020 paper:
 
 `CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data`
 
 by Xiang Li, Ben Kao, Caihua Shan, Dawei Yin, Martin Ester.
 
-Also, the project includes the implementation of ROSC in the WWW2018 paper:
+Also, the project includes the implementation of ROSC in the ## WWW2018 paper:
 
 `ROSC: robust spectral clustering on multi-scale data`
 
