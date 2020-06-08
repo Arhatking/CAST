@@ -9,7 +9,7 @@ Also, the project includes the implementation of ROSC in the <b>WWW2018</b> pape
 
 `ROSC: robust spectral clustering on multi-scale data`
 
-by Xiang Li, Ben Kao, Siqiang Luo, Martin Ester.
+> by Xiang Li, Ben Kao, Siqiang Luo, Martin Ester.
 
 Note that both ROSC and CAST study robust spectral clustering on multi-scale data.
 
